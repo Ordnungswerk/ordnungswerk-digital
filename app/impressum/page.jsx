@@ -1,0 +1,2 @@
+import {Layout} from '../components';
+export default function Page(){return <Layout><main><section className="page-hero"><div className="container"><h1>Impressum</h1><p><strong>OrdnungsWerk Digital</strong><br/>Corinna Binner<br/>Deutschland</p><p>E-Mail: info@ordnungswerk-digital.de<br/>Telefon: 0170 1942022</p><p>Hinweis: Bitte ergänze vor Veröffentlichung die vollständigen rechtlich erforderlichen Angaben.</p></div></section></main></Layout>}
